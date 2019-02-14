@@ -6,7 +6,7 @@ import MyButton from '../utils/MyButton';
 export default class Discount extends Component {
   state = {
     discountStart: 0,
-    discountEnd: 33
+    discountEnd: 20
   };
 
   porcentageCount = () => {

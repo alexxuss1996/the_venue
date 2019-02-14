@@ -7,7 +7,7 @@ const MyButton = props => {
     <Button
       href={props.link}
       variant='contained'
-      size='smal'
+      size='small'
       style={{
         backgroundColor: props.bck,
         color: props.color
