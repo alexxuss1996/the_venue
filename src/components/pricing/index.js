@@ -8,7 +8,7 @@ export default class Pricing extends Component {
     prices: [100, 150, 250],
     positions: ['Balcony', 'Medium', 'Vip'],
     desc: [
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ullam autem architecto non facere dignissimos eum dicta obcaecati possimus incidunt consequatur similique corporis provident laboriosam quia.',
+      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ulla autem architecto non facere dignissimos eum dicta obcaecati possimus incidunt consequatur similique corporis provident laboriosam quia.',
       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum magnam sequi optio, iusto quis maxime dolorum? Vel saepe laudantium enim maiores facilis totam neque laborum quia veritatis, excepturi officiis ipsam?',
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus magnam, doloremque officiis dolores perferendis a tempore assumenda explicabo doloribus repellat quaerat voluptate necessitatibus modi? Ullam!'
     ],
