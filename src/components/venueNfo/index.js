@@ -20,7 +20,7 @@ const VenueNfo = () => {
               </div>
             </div>
           </Flip>
-          <Flip left delay={1500}>
+          <Flip left delay={1200}>
             <div className='vn_item'>
               <div className='vn_outer'>
                 <div className='vn_inner'>
